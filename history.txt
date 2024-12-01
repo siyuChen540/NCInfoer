@@ -1,0 +1,5 @@
+E:/03_AssistanceELSE/dl/opticalWaterClassification/pyOWT-main/data/AQUA_MODIS.20240901_20240930.L3m.MO.RRS.Rrs_469.4km.NRT.nc
+E:/03_AssistanceELSE/dl/opticalWaterClassification/pyOWT-main/data/AQUA_MODIS.20240901_20240930.L3m.MO.RRS.Rrs_488.4km.NRT.nc
+E:/03_AssistanceELSE/dl/opticalWaterClassification/pyOWT-main/data/AQUA_MODIS.20240901_20240930.L3m.MO.RRS.Rrs_531.4km.NRT.nc
+E:/03_AssistanceELSE/dl/opticalWaterClassification/pyOWT-main/data/AQUA_MODIS.20240901_20240930.L3m.MO.RRS.Rrs_645.4km.NRT.nc
+E:/03_AssistanceELSE/dl/opticalWaterClassification/pyOWT-main/data/AQUA_MODIS.20240901_20240930.L3m.MO.RRS.Rrs_555.4km.NRT.nc
